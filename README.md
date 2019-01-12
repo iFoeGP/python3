@@ -1,2 +1,2 @@
 # python3
-学习python3的一些总结
+学习python3时的知识总结以及练手的Demo及其过程中所遇的问题总结
